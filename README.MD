@@ -17,7 +17,7 @@ proyecto2_FrontEndStore/ ├── index.html ├── nosotros.html ├── 
 ### Página de inicio
 ![Inicio](img/HomePage.JPG)
 
-### Página de producto
+### Página de nosotros
 ![Nosotros](img/NosotrosPage.JPG)
 
 ### Página de producto
@@ -34,7 +34,7 @@ proyecto2_FrontEndStore/ ├── index.html ├── nosotros.html ├── 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/frontend-store.git
+   git clone https://github.com/YamilGZ/proyecto-frontend-store.git
    Abre index.html en tu navegador favorito.
 
 ## 💡 Autor
